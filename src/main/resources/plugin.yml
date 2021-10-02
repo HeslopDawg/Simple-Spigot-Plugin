@@ -1,0 +1,9 @@
+name: YourPlugin
+version: 1.0.0-DEV
+main: codes.settlement.simple.MainClass
+authors: [Heslop]
+description: A Simple plugin for you to use!
+website: settlement.codes
+
+commands:
+  hello:
